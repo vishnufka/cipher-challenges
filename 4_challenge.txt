@@ -1,0 +1,1 @@
+hint4.hash(password) = 7971
