@@ -2,7 +2,7 @@
 
 Originally written as 4 coding challenges.
 
-The answer changes with every re-run of the code.
+The answer changes with every re-run of the code in crypto.py.
 
 1. Caesar Cipher. See 1_challenge.txt and 1_guess.txt.
 2. Image steganography - hidden in base64 string. See 2_challenge.txt, 2_guess.txt, and 2_img.jpg.
